@@ -665,7 +665,7 @@ ul {
 
 .btn-border-base {
   color: var(--heading-color);
-  border: 2px solid var(--main-color);
+  border: 2px solid #35706a;
   line-height: 52px;
 }
 .btn-border-base:after {
@@ -1303,7 +1303,7 @@ ul {
 }
 
 .bg-base {
-  background: var(--main-color) !important;
+  background: #35706a !important;
 }
 
 .bg-green {
@@ -1921,7 +1921,7 @@ ul {
 }
 .navbar-area .nav-container .logo a img {
   height: auto;
-  max-width: 150px;
+  max-width: 200px;
 }
 .navbar-area .nav-container .btn-transparent {
   font-size: 13px;
