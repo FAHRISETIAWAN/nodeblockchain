@@ -2363,7 +2363,7 @@ ul {
 
 @media only screen and (max-width: 991px) {
   .navbar-area {
-    background: #fff;
+    background: #101a29;
   }
   .navbar-area .nav-container {
     padding: 5px 0;
@@ -2473,7 +2473,7 @@ ul {
   height: 2px;
   width: 11px;
   top: 18px;
-  background-color: var(--heading-color);
+  background-color: #fff;
   left: 7px;
 }
 .toggle-btn .icon-left:before {
@@ -2482,7 +2482,7 @@ ul {
   position: absolute;
   width: 11px;
   height: 2px;
-  background-color: var(--heading-color);
+  background-color: #fff;
   content: "";
   top: -7px;
   left: 0;
@@ -2493,7 +2493,7 @@ ul {
   position: absolute;
   width: 11px;
   height: 2px;
-  background-color: var(--heading-color);
+  background-color: #fff;
   content: "";
   top: 7px;
   left: 0;
@@ -2508,7 +2508,7 @@ ul {
   height: 2px;
   width: 11px;
   top: 18px;
-  background-color: var(--heading-color);
+  background-color: #fff;
   left: 18px;
 }
 .toggle-btn .icon-right:before {
@@ -2517,7 +2517,7 @@ ul {
   position: absolute;
   width: 11px;
   height: 2px;
-  background-color: var(--heading-color);
+  background-color: #fff;
   content: "";
   top: -7px;
   left: 0;
@@ -2528,7 +2528,7 @@ ul {
   position: absolute;
   width: 11px;
   height: 2px;
-  background-color: var(--heading-color);
+  background-color: #fff;
   content: "";
   top: 7px;
   left: 0;
