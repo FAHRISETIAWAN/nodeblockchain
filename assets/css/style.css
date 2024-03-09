@@ -1356,7 +1356,7 @@ ul {
 }
 
 .bg-cover {
-  background-size: cover !important;
+  /* background-size: cover !important; */
   background-position: center;
 }
 
@@ -1460,7 +1460,7 @@ ul {
 }
 
 .pd-top-120 {
-  padding-top: 120px;
+  padding-top: 270px;
 }
 
 .pd-top-200 {
