@@ -5672,7 +5672,7 @@ ul {
   margin-top: 3px;
 }
 .widget_contact .social-media li a {
-  border: 1px solid var(--paragraph-color);
+ 
   background: transparent;
   line-height: 28px;
 }
@@ -5683,7 +5683,7 @@ ul {
 }
 .widget_contact .social-media li a:hover {
   background: var(--main-color);
-  border: 1px solid var(--main-color);
+  
 }
 .widget_contact .social-media li a:hover svg {
   color: #fff !important;
